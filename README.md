@@ -5,6 +5,7 @@ Desenvolvedor Back-end Java | Spring Boot
 Sou um desenvolvedor apaixonado por construir sistemas robustos e bem estruturados.
 
 Atualmente focado no ecossistema Java + Spring Boot, desenvolvendo APIs RESTful com boas práticas de arquitetura, validação e persistência de dados.
+
 ---
 🛠️ Tecnologias e Ferramentas
 
@@ -35,18 +36,30 @@ Ferramentas
 ---
 📌 Foco atual
 Desenvolvendo o Company System — um sistema de gestão empresarial com:
+
 API REST com Spring Boot
+
 Validação de dados com Bean Validation
+
 Persistência com Spring Data JPA + PostgreSQL
+
 Padrões de repositório e consultas customizadas com JPQL
+
 ---
 📂 Projetos em destaque
+
 Projeto	Descrição	Tecnologias 
+
 Furniture List API	API REST para gerenciamento de lista de móveis	Java, Spring Boot, JPA 
+
 Company System	Sistema de gerenciamento de banco de dados empresarial	Java, Spring Boot, PostgreSQL 
+
 National Bank DB	Modelagem e operações de banco de dados bancário Java 
+
 JUnit Projects	Projetos com cobertura de testes unitários	Java, JUnit 
+
 Challenge Alura	Desafio prático da Alura	Java 
+
 ---
 📊 GitHub Stats
 <div align="center">
