@@ -34,17 +34,6 @@ Ferramentas
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
-📌 Foco atual
-Desenvolvendo o Company System — um sistema de gestão empresarial com:
-
-API REST com Spring Boot
-
-Validação de dados com Bean Validation
-
-Persistência com Spring Data JPA + PostgreSQL
-
-Padrões de repositório e consultas customizadas com JPQL
-
 ---
 📂 Projetos em destaque
 
