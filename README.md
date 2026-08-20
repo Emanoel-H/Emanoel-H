@@ -50,14 +50,17 @@ Projeto	Descrição	Tecnologias
 
 🏢 Company-System
 API de gestão empresarial construída em Java + Spring Boot. É meu projeto principal no momento, onde aplico arquitetura em camadas, boas práticas de DDD e persistência com JPA/Hibernate.
+
 `Java` `Spring Boot` `JPA/Hibernate`
 
 🚌 busapp-api
 API REST para gestão de passagens de ônibus, evolução do projeto original em Java-Mastery. Inclui autenticação JWT, hashing de senha com BCrypt, validações customizadas com Bean Validation e tratamento centralizado de erros.
+
 `Java` `Spring Boot` `JWT` `Bean Validation`
 
 💇 BeautyGoAdmin
 Aplicação desktop em Delphi (VCL) para administração de um negócio de estética/beleza, com camada própria de acesso a banco de dados. Um projeto que une minha experiência com Delphi ao universo de gestão de clientes e agendamentos.
+
 `Delphi` `Pascal` `VCL` `Banco de Dados`
 
 ---
