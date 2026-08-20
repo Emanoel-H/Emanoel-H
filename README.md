@@ -9,14 +9,20 @@ Atualmente focado no ecossistema Java + Spring Boot, desenvolvendo APIs RESTful 
 ---
 🛠️ Tecnologias e Ferramentas
 
-Back-end & Linguagens
+Linguagens
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Back-end & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 Front-end
 
@@ -28,6 +34,8 @@ Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebird](https://img.shields.io/badge/-Firebird-F24C00?style=flat-square&logo=firebird&logoColor=white)
 
 Ferramentas
 
@@ -40,15 +48,15 @@ Ferramentas
 
 Projeto	Descrição	Tecnologias 
 
-Furniture List API	API REST para gerenciamento de lista de móveis	Java, Spring Boot, JPA 
-
-Company System	Sistema de gerenciamento de banco de dados empresarial	Java, Spring Boot, PostgreSQL 
-
-National Bank DB	Modelagem e operações de banco de dados bancário Java 
-
-JUnit Projects	Projetos com cobertura de testes unitários	Java, JUnit 
-
-Challenge Alura	Desafio prático da Alura	Java 
+🏢 Company-System
+API de gestão empresarial construída em Java + Spring Boot. É meu projeto principal no momento, onde aplico arquitetura em camadas, boas práticas de DDD e persistência com JPA/Hibernate.
+`Java` `Spring Boot` `JPA/Hibernate`
+🚌 busapp-api
+API REST para gestão de passagens de ônibus, evolução do projeto original em Java-Mastery. Inclui autenticação JWT, hashing de senha com BCrypt, validações customizadas com Bean Validation e tratamento centralizado de erros.
+`Java` `Spring Boot` `JWT` `Bean Validation`
+💇 BeautyGoAdmin
+Aplicação desktop em Delphi (VCL) para administração de um negócio de estética/beleza, com camada própria de acesso a banco de dados. Um projeto que une minha experiência com Delphi ao universo de gestão de clientes e agendamentos.
+`Delphi` `Pascal` `VCL` `Banco de Dados`
 
 ---
 📊 GitHub Stats
